@@ -1,0 +1,9 @@
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/dao/DocumentDao.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/entity/DocumentLine.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/Application.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/entity/Document.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/service/DocumentService.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/service/DocumentServiceImpl.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/dao/queries/InsertDocumentLineQuery.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/dao/queries/InsertDocumentQuery.java
+/home/vova/workspace/TxTReader/src/main/java/com/barkalov/consoleTxtReader/dao/impl/DocumentDaoJDBCImpl.java

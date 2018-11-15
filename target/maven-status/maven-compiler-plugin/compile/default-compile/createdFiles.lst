@@ -1,0 +1,9 @@
+com/barkalov/consoleTxtReader/entity/Document.class
+com/barkalov/consoleTxtReader/dao/queries/InsertDocumentQuery.class
+com/barkalov/consoleTxtReader/service/DocumentService.class
+com/barkalov/consoleTxtReader/dao/DocumentDao.class
+com/barkalov/consoleTxtReader/service/DocumentServiceImpl.class
+com/barkalov/consoleTxtReader/entity/DocumentLine.class
+com/barkalov/consoleTxtReader/dao/queries/InsertDocumentLineQuery.class
+com/barkalov/consoleTxtReader/Application.class
+com/barkalov/consoleTxtReader/dao/impl/DocumentDaoJDBCImpl.class
