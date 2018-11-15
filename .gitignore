@@ -1,13 +1,7 @@
-/.idea/*
-/target/*
+/.idea/
+/target/
 target/
 *.idea
 *.iml
 .idea/*
 target/*
-*.iml
-.idea
-.classpath
-.project
-.settings
-target
