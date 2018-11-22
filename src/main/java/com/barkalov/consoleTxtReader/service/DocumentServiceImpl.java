@@ -29,7 +29,9 @@ public class DocumentServiceImpl implements DocumentService {
 
             targetUrlsFromDirectory.stream().forEach(value -> {
                 String fileName = value.toString();
-                Document document = new Document(fileName.substring(fileName.lastIndexOf("\\") + 1));
+                Document document = new Document(fileName.substring(fileName.lastIndexOf("/") + 1));
+//                Document document = new Document(fileName.substring(fileName.lastIndexOf("\\") + 1)); // For Windows users
+
                 List<String> linesFromFile = readFileAndSplitByLines(value.toString());
                 document.setDocumentLines(getLines(linesFromFile, document));
                 document.setLineCount(linesFromFile.size());

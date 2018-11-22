@@ -8,7 +8,7 @@ import org.springframework.context.support.GenericXmlApplicationContext;
 import java.util.List;
 
 public class Application {
-    private static final String DIRECTORY_URL = "/home/vova/workspace/TxTReader/data";
+    private static final String DIRECTORY_URL = "/home/vova/workspace/ConsoleTxtReader/data";
     private static final String CONTEXT_URL = "classpath:console-context.xml";
 
     public static void main(String args[]) {
